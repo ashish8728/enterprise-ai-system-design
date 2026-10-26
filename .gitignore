@@ -22,3 +22,21 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Thumbnails and Metadata
+._*
+.Spotlight-V100
+.Trashes
+
+# macOS Application Files
+*.webarchive
+*.icu
+
+# Network & External Drives
+.VolumeIcon.icns
