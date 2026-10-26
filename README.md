@@ -8,7 +8,7 @@ Production-focused case studies and trade-off analyses on integrating AI capabil
 
 | # | Pattern / Topic | Core Focus | Case Study Domain |
 | :- | :--- | :--- | :--- |
-| **01** | [Hybrid Decision Engine](./01-hybrid-decision-engine) | In-memory pre-filters, intent extraction, schema validation gates | E-commerce Returns & Payment Disputes |
+| **01** | [Hybrid Decision Engine](./01-hybrid-decision-engine/README.md) | In-memory pre-filters, intent extraction, schema validation gates | E-commerce Returns & Payment Disputes |
 
 ---
 
@@ -17,4 +17,4 @@ Production-focused case studies and trade-off analyses on integrating AI capabil
 **Ashish Sharma**  
 Technical Leader & Systems Architect
 
-* [LinkedIn Profile](www.linkedin.com/in/ashishshar)
+* [LinkedIn Profile](https://www.linkedin.com/in/ashishshar)
