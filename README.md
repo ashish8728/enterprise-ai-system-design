@@ -9,6 +9,7 @@ Production-focused case studies and trade-off analyses on integrating AI capabil
 | # | Pattern / Topic | Core Focus | Case Study Domain |
 | :- | :--- | :--- | :--- |
 | **01** | [Hybrid Decision Engine](./01-hybrid-decision-engine/README.md) | In-memory pre-filters, intent extraction, schema validation gates | E-commerce Returns & Payment Disputes |
+| **02** | [AI Gateway Edge Ingress & Reverse Proxy Routing](./02-ai-gateway-edge-architecture/README.md) | Centralized token accounting, multi-provider failover, stream resilience | Enterprise LLM Gateway & Rate Limiting |
 
 ---
 
